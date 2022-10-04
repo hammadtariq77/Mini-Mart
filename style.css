@@ -1,0 +1,59 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital@1&display=swap');
+</style>
+body{
+    font-family: 'PT Sans', sans-serif;
+}
+
+
+.intro{
+    font-size: xx-large;
+    font-weight: 700;
+    color: rgba(0, 0, 0, 0.856);
+}
+#nav{
+    background-color: rgb(187, 173, 173) !important;
+   
+}
+
+
+
+
+
+
+
+.intro1{
+    color: rgba(0, 0, 0, 0.932);
+    font-size:20px;
+    font-weight: 600;
+}
+.latest{
+    font-size: 22px;
+    font-weight: 800;
+    color: rgba(241, 50, 50, 0.959);
+    border-bottom: 4px solid rgba(212, 32, 32, 0.918);
+    border-radius: 7px;
+}
+.latbak{
+    background-color: rgb(187, 173, 173);
+}
+footer{
+    background-color: rgba(0, 0, 0, 0.822);
+    color: bisque;
+}
+.star{
+    color: orangered !important;
+}
+
+@media screen and ( max-width:600px) {
+    .first{
+        margin-left: 85px;
+    }
+    
+}
+@media screen and ( max-width:600px) {
+    #second{
+        margin-left: 69px;
+    }
+    
+}
